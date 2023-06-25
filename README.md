@@ -1,5 +1,9 @@
+#Note that this currently doesn’t work as the login process in Eduserve has been switched to Google login page.
+
+
 # Eduserve_Login_Automation
-To automate the _eduserve_ login using selenium framework and python
+Eduserve is a student portal for the institute Karunya, so this script will help you to log in and fill up the feedback page.
+To automate the _eduserve_ login using selenium framework and python, 
 
 ## Requirements 
 + Install the selenium package (for Python) using the command in the terminal 
